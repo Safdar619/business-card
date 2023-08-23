@@ -1,0 +1,50 @@
+body{
+    margin:20px;
+    font-family:  Georgia, 'Times New Roman', Times, serif
+    
+}
+.card{
+    background: #C6D4FF;
+    width:400px;
+    margin: 0 auto;
+    border:5px solid lightgrey;
+    display:flex;
+    justify-content: space-between;
+    padding:20px;
+    box-shadow: 8px 8px lightpink;
+}
+.Safdar-img{
+    width:150px;
+    border:1px solid lightgray;
+}
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
+
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
+/*
+Final challenge:
+Download the code to your local computer and place it
+in a folder called "business-card"
+*/
